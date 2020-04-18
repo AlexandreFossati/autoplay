@@ -1,0 +1,32 @@
+
+20:20:03: Iteração: 1
+20:20:14: Ainda tem tempo pra caçar
+20:20:16: Não tem relógio
+20:20:16: O player foi atacado
+20:20:17: Tempo restante da penalidade: 88 segundos
+20:20:29: Não há um inimigo para atacar na Invasão
+20:20:36: Fim do processo. Tempo até o restart: 88
+20:22:04: Iteração: 2
+20:22:09: Acabou o tempo da caçada
+20:23:19: Player do ranking atacado: Uzki
+20:23:20: Fim do processo. Tempo até restart: 300
+20:23:23: Não há um inimigo para atacar na Invasão
+20:23:23: Fim do processo. Tempo até o restart: 300
+20:28:23: Iteração: 3
+20:28:56: Player do ranking atacado: Ikimo
+20:28:56: Fim do processo. Tempo até restart: 300
+20:28:59: Não há um inimigo para atacar na Invasão
+20:28:59: Fim do processo. Tempo até o restart: 300
+20:33:59: Iteração: 4
+20:34:25: Player do ranking atacado: Kirinomo
+20:34:25: Fim do processo. Tempo até restart: 300
+20:34:28: Não há um inimigo para atacar na Invasão
+20:34:28: Fim do processo. Tempo até o restart: 300
+20:39:28: Iteração: 5
+20:39:57: Player do ranking atacado: Presido
+20:39:57: Fim do processo. Tempo até restart: 300
+20:40:00: Não há um inimigo para atacar na Invasão
+20:40:00: Fim do processo. Tempo até o restart: 300
+20:45:00: Iteração: 6
+20:45:26: Player do ranking atacado: Capitulo4
+20:45:26: Fim do processo. Tempo até restart: 300

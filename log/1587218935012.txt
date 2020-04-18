@@ -1,0 +1,70 @@
+
+11:09:15: Iteração: 1
+11:09:25: Ainda tem tempo pra caçar
+11:09:28: Não tem relógio
+11:09:41: Caçada realizada
+11:09:54: Ataque ao invasor realizado
+11:09:54: Fim do processo. Tempo até o restart: 300
+11:14:54: Iteração: 2
+11:15:04: Ainda tem tempo pra caçar
+11:15:04: Tem relógio
+11:15:04: Apenas receber recompensa
+11:15:22: Caçada realizada
+11:15:37: Ataque ao invasor realizado
+11:15:37: Fim do processo. Tempo até o restart: 300
+11:20:37: Iteração: 3
+11:20:45: Ainda tem tempo pra caçar
+11:20:45: Tem relógio
+11:20:45: Apenas receber recompensa
+11:21:04: Caçada realizada
+11:21:18: Ataque ao invasor realizado
+11:21:18: Fim do processo. Tempo até o restart: 300
+11:26:18: Iteração: 4
+11:26:26: Ainda tem tempo pra caçar
+11:26:26: Tem relógio
+11:26:26: Apenas receber recompensa
+11:26:45: Caçada realizada
+11:26:57: Ataque ao invasor realizado
+11:26:57: Fim do processo. Tempo até o restart: 300
+11:31:57: Iteração: 5
+11:32:07: Ainda tem tempo pra caçar
+11:32:07: Tem relógio
+11:32:07: Apenas receber recompensa
+11:32:22: Caçada realizada
+11:32:36: Ataque ao invasor realizado
+11:32:36: Fim do processo. Tempo até o restart: 300
+11:37:36: Iteração: 6
+11:37:45: Ainda tem tempo pra caçar
+11:37:45: Tem relógio
+11:37:45: Apenas receber recompensa
+11:38:05: Caçada realizada
+11:38:17: Ataque ao invasor realizado
+11:38:17: Fim do processo. Tempo até o restart: 300
+11:43:17: Iteração: 7
+11:43:26: Ainda tem tempo pra caçar
+11:43:26: Tem relógio
+11:43:26: Apenas receber recompensa
+11:43:41: Caçada realizada
+11:43:54: Ataque ao invasor realizado
+11:43:54: Fim do processo. Tempo até o restart: 300
+11:48:54: Iteração: 8
+11:49:03: Ainda tem tempo pra caçar
+11:49:03: Tem relógio
+11:49:03: Apenas receber recompensa
+11:49:20: Caçada realizada
+11:49:32: Ataque ao invasor realizado
+11:49:32: Fim do processo. Tempo até o restart: 300
+11:54:32: Iteração: 9
+11:54:41: Ainda tem tempo pra caçar
+11:54:41: Tem relógio
+11:54:41: Apenas receber recompensa
+11:55:02: Caçada realizada
+11:55:14: Ataque ao invasor realizado
+11:55:14: Fim do processo. Tempo até o restart: 300
+12:00:14: Iteração: 10
+12:00:23: Ainda tem tempo pra caçar
+12:00:23: Tem relógio
+12:00:23: Apenas receber recompensa
+12:00:38: Caçada realizada
+12:00:50: Ataque ao invasor realizado
+12:00:50: Fim do processo. Tempo até o restart: 300

@@ -1,0 +1,1 @@
+[{"player":"Masashi","ryous":137},{"player":"Trivela","ryous":164},{"player":"Kuro_okkami","ryous":331},{"player":"Maranesi","ryous":280}]
