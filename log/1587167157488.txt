@@ -1,6 +1,0 @@
-
-20:47:24: Iteração: 1
-20:47:31: Ainda tem tempo pra caçar
-20:47:33: Não tem relógio
-20:47:33: O player foi atacado
-20:47:33: Tempo restante da penalidade: 172 segundos
