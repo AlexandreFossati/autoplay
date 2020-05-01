@@ -3,7 +3,7 @@ const { Builder, By, Key, until } = require('selenium-webdriver')
 const fs = require('fs')
 const deepai = require('deepai')
 
-deepai.setApiKey('204040f4-1ee7-4390-a4b4-54e0cffab326');
+deepai.setApiKey('bf921c3f-709c-4729-bdb2-eb1329cc56f1');
 
 async function compareImages() {
   let res = await deepai.callStandardApi('image-similarity', {

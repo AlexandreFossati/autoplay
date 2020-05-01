@@ -1,0 +1,4 @@
+
+16:17:34: Iteração: 1
+16:17:46: Ataque ao invasor realizado
+16:17:46: Fim do processo. Tempo até o restart: 300

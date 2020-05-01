@@ -1,0 +1,106 @@
+
+15:15:05: Iteração: 1
+15:15:18: Ataque ao invasor realizado
+15:15:18: Fim do processo. Tempo até o restart: 300
+15:20:18: Iteração: 2
+15:20:28: Ataque ao invasor realizado
+15:20:28: Fim do processo. Tempo até o restart: 300
+15:25:28: Iteração: 3
+15:25:41: Ataque ao invasor realizado
+15:25:41: Fim do processo. Tempo até o restart: 300
+15:30:41: Iteração: 4
+15:30:47: Ataque ao invasor realizado
+15:30:47: Fim do processo. Tempo até o restart: 300
+15:35:47: Iteração: 5
+15:35:56: Ataque ao invasor realizado
+15:35:56: Fim do processo. Tempo até o restart: 300
+15:40:56: Iteração: 6
+15:41:03: Ataque ao invasor realizado
+15:41:03: Fim do processo. Tempo até o restart: 300
+15:46:03: Iteração: 7
+15:46:17: Ataque ao invasor realizado
+15:46:17: Fim do processo. Tempo até o restart: 300
+15:51:17: Iteração: 8
+15:51:23: Ataque ao invasor realizado
+15:51:23: Fim do processo. Tempo até o restart: 300
+15:56:23: Iteração: 9
+15:56:35: Ataque ao invasor realizado
+15:56:35: Fim do processo. Tempo até o restart: 300
+16:01:35: Iteração: 10
+16:01:44: Ataque ao invasor realizado
+16:01:44: Fim do processo. Tempo até o restart: 300
+16:06:44: Iteração: 11
+16:06:55: Ataque ao invasor realizado
+16:06:55: Fim do processo. Tempo até o restart: 300
+16:11:55: Iteração: 12
+16:12:04: Ataque ao invasor realizado
+16:12:04: Fim do processo. Tempo até o restart: 300
+16:17:04: Iteração: 13
+16:17:14: Ataque ao invasor realizado
+16:17:14: Fim do processo. Tempo até o restart: 300
+16:22:14: Iteração: 14
+16:22:25: Ataque ao invasor realizado
+16:22:25: Fim do processo. Tempo até o restart: 300
+16:27:25: Iteração: 15
+16:27:33: Ataque ao invasor realizado
+16:27:33: Fim do processo. Tempo até o restart: 300
+16:32:33: Iteração: 16
+16:32:41: Ataque ao invasor realizado
+16:32:41: Fim do processo. Tempo até o restart: 300
+16:37:41: Iteração: 17
+16:37:53: Ataque ao invasor realizado
+16:37:53: Fim do processo. Tempo até o restart: 300
+16:42:53: Iteração: 18
+16:43:01: Ataque ao invasor realizado
+16:43:01: Fim do processo. Tempo até o restart: 300
+16:48:01: Iteração: 19
+16:48:11: Ataque ao invasor realizado
+16:48:11: Fim do processo. Tempo até o restart: 300
+16:53:11: Iteração: 20
+16:53:18: Ataque ao invasor realizado
+16:53:18: Fim do processo. Tempo até o restart: 300
+16:58:18: Iteração: 21
+16:58:22: Não há um inimigo para atacar na Invasão
+16:58:22: Fim do processo. Tempo até o restart: 300
+17:03:22: Iteração: 22
+17:03:26: Não há um inimigo para atacar na Invasão
+17:03:27: Fim do processo. Tempo até o restart: 300
+17:08:27: Iteração: 23
+17:08:31: Não há um inimigo para atacar na Invasão
+17:08:31: Fim do processo. Tempo até o restart: 300
+17:13:31: Iteração: 24
+17:13:36: Não há um inimigo para atacar na Invasão
+17:13:36: Fim do processo. Tempo até o restart: 300
+17:18:36: Iteração: 25
+17:18:47: Não há um inimigo para atacar na Invasão
+17:18:47: Fim do processo. Tempo até o restart: 300
+17:23:47: Iteração: 26
+17:23:52: Não há um inimigo para atacar na Invasão
+17:23:52: Fim do processo. Tempo até o restart: 300
+17:28:52: Iteração: 27
+17:28:56: Não há um inimigo para atacar na Invasão
+17:28:56: Fim do processo. Tempo até o restart: 300
+17:33:56: Iteração: 28
+17:34:00: Não há um inimigo para atacar na Invasão
+17:34:00: Fim do processo. Tempo até o restart: 300
+17:39:00: Iteração: 29
+17:39:05: Não há um inimigo para atacar na Invasão
+17:39:05: Fim do processo. Tempo até o restart: 300
+17:44:05: Iteração: 30
+17:44:10: Não há um inimigo para atacar na Invasão
+17:44:10: Fim do processo. Tempo até o restart: 300
+17:49:10: Iteração: 31
+17:49:28: Não há um inimigo para atacar na Invasão
+17:49:28: Fim do processo. Tempo até o restart: 300
+17:54:28: Iteração: 32
+17:54:33: Não há um inimigo para atacar na Invasão
+17:54:33: Fim do processo. Tempo até o restart: 300
+17:59:33: Iteração: 33
+17:59:37: Não há um inimigo para atacar na Invasão
+17:59:37: Fim do processo. Tempo até o restart: 300
+18:04:37: Iteração: 34
+18:04:42: Não há um inimigo para atacar na Invasão
+18:04:42: Fim do processo. Tempo até o restart: 300
+18:09:42: Iteração: 35
+18:09:46: Não há um inimigo para atacar na Invasão
+18:09:46: Fim do processo. Tempo até o restart: 300

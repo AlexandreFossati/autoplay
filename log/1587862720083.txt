@@ -1,0 +1,114 @@
+
+21:59:06: Iteração: 1
+21:59:17: Ainda tem tempo pra caçar
+21:59:19: Não tem relógio
+21:59:35: Ainda tem tempo pra caçar
+21:59:37: Não tem relógio
+21:59:46: Caçada realizada
+21:59:46: Fim do processo. Tempo até o restart: 300
+22:04:46: Iteração: 2
+22:04:54: Ainda tem tempo pra caçar
+22:04:54: Tem relógio
+22:04:54: Apenas receber recompensa
+22:05:08: Caçada realizada
+22:05:08: Fim do processo. Tempo até o restart: 300
+22:10:06: Iteração: 3
+22:10:12: Ainda tem tempo pra caçar
+22:10:12: Tem relógio
+22:10:12: Apenas receber recompensa
+22:10:26: Caçada realizada
+22:10:26: Fim do processo. Tempo até o restart: 300
+22:15:26: Iteração: 4
+22:15:33: Ainda tem tempo pra caçar
+22:15:33: Tem relógio
+22:15:33: Apenas receber recompensa
+22:15:47: Caçada realizada
+22:15:47: Fim do processo. Tempo até o restart: 300
+22:20:47: Iteração: 5
+22:20:54: Ainda tem tempo pra caçar
+22:20:54: Tem relógio
+22:20:54: Apenas receber recompensa
+22:21:06: Caçada realizada
+22:21:06: Fim do processo. Tempo até o restart: 300
+22:26:06: Iteração: 6
+22:26:13: Ainda tem tempo pra caçar
+22:26:13: Tem relógio
+22:26:13: Apenas receber recompensa
+22:26:27: Caçada realizada
+22:26:27: Fim do processo. Tempo até o restart: 300
+22:31:27: Iteração: 7
+22:31:34: Ainda tem tempo pra caçar
+22:31:34: Tem relógio
+22:31:34: Apenas receber recompensa
+22:31:45: Caçada realizada
+22:31:45: Fim do processo. Tempo até o restart: 300
+22:36:45: Iteração: 8
+22:36:52: Ainda tem tempo pra caçar
+22:36:52: Tem relógio
+22:36:52: Apenas receber recompensa
+22:37:07: Caçada realizada
+22:37:07: Fim do processo. Tempo até o restart: 300
+22:42:07: Iteração: 9
+22:42:13: Ainda tem tempo pra caçar
+22:42:13: Tem relógio
+22:42:13: Apenas receber recompensa
+22:42:26: Caçada realizada
+22:42:26: Fim do processo. Tempo até o restart: 300
+22:47:26: Iteração: 10
+22:47:33: Ainda tem tempo pra caçar
+22:47:33: Tem relógio
+22:47:33: Apenas receber recompensa
+22:47:45: Caçada realizada
+22:47:45: Fim do processo. Tempo até o restart: 300
+22:52:45: Iteração: 11
+22:52:51: Ainda tem tempo pra caçar
+22:52:51: Tem relógio
+22:52:51: Apenas receber recompensa
+22:53:05: Caçada realizada
+22:53:05: Fim do processo. Tempo até o restart: 300
+22:58:05: Iteração: 12
+22:58:12: Ainda tem tempo pra caçar
+22:58:12: Tem relógio
+22:58:12: Apenas receber recompensa
+22:58:24: Caçada realizada
+22:58:24: Fim do processo. Tempo até o restart: 300
+23:03:24: Iteração: 13
+23:03:31: Ainda tem tempo pra caçar
+23:03:31: Tem relógio
+23:03:31: Apenas receber recompensa
+23:03:38: Acabou o tempo da caçada
+23:03:38: Fim do processo. Tempo até o restart: 300
+23:08:38: Iteração: 14
+23:08:42: Acabou o tempo da caçada
+23:10:00: Player da lista atacado: Kyuren
+23:10:00: Fim do processo. Tempo até restart: 300
+23:10:00: Fim do processo. Tempo até o restart: 300
+23:15:00: Iteração: 15
+23:15:03: Fim do processo. Tempo até restart: 294
+23:15:03: Fim do processo. Tempo até o restart: 294
+23:19:57: Iteração: 16
+23:21:26: Player da lista atacado: Frankenstein
+23:21:26: Fim do processo. Tempo até restart: 300
+23:21:26: Fim do processo. Tempo até o restart: 300
+23:26:26: Iteração: 17
+23:26:29: Fim do processo. Tempo até restart: 297
+23:26:29: Fim do processo. Tempo até o restart: 297
+23:31:26: Iteração: 18
+23:32:03: Player da lista atacado: Kush
+23:32:03: Fim do processo. Tempo até restart: 300
+23:32:03: Fim do processo. Tempo até o restart: 300
+23:37:03: Iteração: 19
+23:37:06: Fim do processo. Tempo até restart: 297
+23:37:06: Fim do processo. Tempo até o restart: 297
+23:42:03: Iteração: 20
+23:42:24: Player da lista atacado: Sejuato
+23:42:24: Fim do processo. Tempo até restart: 300
+23:42:24: Fim do processo. Tempo até o restart: 300
+23:47:24: Iteração: 21
+23:47:26: Fim do processo. Tempo até restart: 297
+23:47:26: Fim do processo. Tempo até o restart: 297
+23:52:23: Iteração: 22
+23:52:50: Player do ranking atacado: Jake
+23:52:50: Fim do processo. Tempo até restart: 300
+23:52:50: Fim do processo. Tempo até o restart: 300
+23:57:50: Iteração: 23

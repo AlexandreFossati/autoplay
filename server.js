@@ -5,23 +5,65 @@ let invasion = require('./invasion')
 let hunt = require('./hunt')
 let attack = require('./attack')
 
-async function loop() {
-  let secondsTillNextHunt = 300
+async function acceptLevelUp() {
+  let popup = null
 
+  try {
+    popup = await driver.findElement(By.className('upgrade_fechar'))
+    
+  } catch(e) {
+    console.log('Não subiu de nível')
+  }
+
+  let itWorked = false
+
+  while(popup && !itWorked) {
+    try {
+      let strong = await popup.findElement(By.tagName('strong'))
+      let a = await strong.findElement(By.tagName('a'))
+      await a.click()
+      logs.save('Player subiu de nível')
+      itWorked = true
+    } catch(e) { 
+      // faz nada
+    }
+  }
+}
+
+async function executeSteps() {
+  let driver = this.driver
+  let secondsTillNextHunt = 300
+  let itWorked = false
+
+  while(!itWorked) {
+    try {
+      // if(hunt.timeToHuntIsUp) {
+      //  secondsTillNextHunt = await hunt.checkAndStartHunting()
+    
+      //  if(!hunt.timeToHuntIsUp) 
+      //    secondsTillNextHunt = await attack.checkAndAttackPlayer()
+      // }  
+      
+      // else {
+      //  secondsTillNextHunt = await attack.checkAndAttackPlayer()
+      // }
+    
+      await invasion.checkAndAttackInvader()
+      itWorked = true
+
+    } catch(e) {
+      await acceptLevelUp()
+    }
+
+  }
+  return secondsTillNextHunt
+}
+
+async function loop() {
   this.iteration++
   logs.save(`Iteração: ${this.iteration}`)
 
-  if(hunt.timeToHuntIsUp) {
-    secondsTillNextHunt = await hunt.checkAndStartHunting()
-
-    if(!hunt.timeToHuntIsUp) 
-      secondsTillNextHunt = await attack.checkAndAttackPlayer()
-  }  
-  else {
-    secondsTillNextHunt = await attack.checkAndAttackPlayer()
-  }
-
-  await invasion.checkAndAttackInvader()  
+  let secondsTillNextHunt = await executeSteps()
 
   logs.save(`Fim do processo. Tempo até o restart: ${secondsTillNextHunt}`)
   setTimeout(loop.bind(this), secondsTillNextHunt * 1000)

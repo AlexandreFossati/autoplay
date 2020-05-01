@@ -1,0 +1,637 @@
+
+10:55:34: Iteração: 1
+10:55:43: Ainda tem tempo pra caçar
+10:55:43: Tem relógio
+10:55:43: Aguardar por 162 segundos
+10:55:52: Ataque ao invasor realizado
+10:55:52: Fim do processo. Tempo até o restart: 162
+10:58:34: Iteração: 2
+10:58:40: Ainda tem tempo pra caçar
+10:58:40: Tem relógio
+10:58:40: Apenas receber recompensa
+10:59:00: Caçada realizada
+10:59:11: Ataque ao invasor realizado
+10:59:11: Fim do processo. Tempo até o restart: 300
+11:04:11: Iteração: 3
+11:04:18: Ainda tem tempo pra caçar
+11:04:18: Tem relógio
+11:04:18: Apenas receber recompensa
+11:04:33: Caçada realizada
+11:04:45: Ataque ao invasor realizado
+11:04:45: Fim do processo. Tempo até o restart: 300
+11:09:45: Iteração: 4
+11:09:52: Ainda tem tempo pra caçar
+11:09:52: Tem relógio
+11:09:52: Apenas receber recompensa
+11:10:14: Caçada realizada
+11:10:20: Ataque ao invasor realizado
+11:10:20: Fim do processo. Tempo até o restart: 300
+11:15:20: Iteração: 5
+11:15:27: Ainda tem tempo pra caçar
+11:15:27: Tem relógio
+11:15:27: Apenas receber recompensa
+11:15:43: Caçada realizada
+11:15:53: Ataque ao invasor realizado
+11:15:53: Fim do processo. Tempo até o restart: 300
+11:20:53: Iteração: 6
+11:21:00: Ainda tem tempo pra caçar
+11:21:00: Tem relógio
+11:21:00: Apenas receber recompensa
+11:21:18: Caçada realizada
+11:21:25: Ataque ao invasor realizado
+11:21:25: Fim do processo. Tempo até o restart: 300
+11:26:25: Iteração: 7
+11:26:32: Ainda tem tempo pra caçar
+11:26:32: Tem relógio
+11:26:32: Apenas receber recompensa
+11:26:52: Caçada realizada
+11:26:59: Ataque ao invasor realizado
+11:26:59: Fim do processo. Tempo até o restart: 300
+11:31:59: Iteração: 8
+11:32:07: Ainda tem tempo pra caçar
+11:32:07: Tem relógio
+11:32:07: Apenas receber recompensa
+11:32:23: Caçada realizada
+11:32:30: Ataque ao invasor realizado
+11:32:30: Fim do processo. Tempo até o restart: 300
+11:37:30: Iteração: 9
+11:37:38: Ainda tem tempo pra caçar
+11:37:38: Tem relógio
+11:37:38: Apenas receber recompensa
+11:37:53: Caçada realizada
+11:38:02: Ataque ao invasor realizado
+11:38:02: Fim do processo. Tempo até o restart: 300
+11:43:02: Iteração: 10
+11:43:09: Ainda tem tempo pra caçar
+11:43:09: Tem relógio
+11:43:09: Apenas receber recompensa
+11:43:24: Caçada realizada
+11:43:32: Ataque ao invasor realizado
+11:43:32: Fim do processo. Tempo até o restart: 300
+11:48:32: Iteração: 11
+11:48:40: Ainda tem tempo pra caçar
+11:48:40: Tem relógio
+11:48:40: Apenas receber recompensa
+11:49:00: Caçada realizada
+11:49:08: Ataque ao invasor realizado
+11:49:08: Fim do processo. Tempo até o restart: 300
+11:54:08: Iteração: 12
+11:54:15: Ainda tem tempo pra caçar
+11:54:15: Tem relógio
+11:54:15: Apenas receber recompensa
+11:54:32: Caçada realizada
+11:54:38: Ataque ao invasor realizado
+11:54:38: Fim do processo. Tempo até o restart: 300
+11:59:38: Iteração: 13
+11:59:45: Ainda tem tempo pra caçar
+11:59:45: Tem relógio
+11:59:45: Apenas receber recompensa
+12:00:05: Caçada realizada
+12:00:12: Ataque ao invasor realizado
+12:00:12: Fim do processo. Tempo até o restart: 300
+12:05:12: Iteração: 14
+12:05:20: Ainda tem tempo pra caçar
+12:05:20: Tem relógio
+12:05:20: Apenas receber recompensa
+12:05:36: Caçada realizada
+12:05:48: Ataque ao invasor realizado
+12:05:48: Fim do processo. Tempo até o restart: 300
+12:10:48: Iteração: 15
+12:10:55: Ainda tem tempo pra caçar
+12:10:55: Tem relógio
+12:10:55: Apenas receber recompensa
+12:11:10: Caçada realizada
+12:11:21: Ataque ao invasor realizado
+12:11:21: Fim do processo. Tempo até o restart: 300
+12:16:21: Iteração: 16
+12:16:28: Ainda tem tempo pra caçar
+12:16:28: Tem relógio
+12:16:28: Apenas receber recompensa
+12:16:43: Caçada realizada
+12:16:53: Ataque ao invasor realizado
+12:16:53: Fim do processo. Tempo até o restart: 300
+12:21:53: Iteração: 17
+12:22:00: Ainda tem tempo pra caçar
+12:22:00: Tem relógio
+12:22:01: Apenas receber recompensa
+12:22:17: Caçada realizada
+12:22:28: Ataque ao invasor realizado
+12:22:28: Fim do processo. Tempo até o restart: 300
+12:27:28: Iteração: 18
+12:27:35: Ainda tem tempo pra caçar
+12:27:35: Tem relógio
+12:27:35: Apenas receber recompensa
+12:27:42: Acabou o tempo da caçada
+12:27:53: Ataque ao invasor realizado
+12:27:53: Fim do processo. Tempo até o restart: 300
+12:32:53: Iteração: 19
+12:33:00: Acabou o tempo da caçada
+12:33:19: Player da lista atacado: Masashi
+12:33:19: Fim do processo. Tempo até restart: 300
+12:33:26: Ataque ao invasor realizado
+12:33:26: Fim do processo. Tempo até o restart: 300
+12:38:26: Iteração: 20
+12:38:57: Player da lista atacado: Kuro_okkami
+12:38:57: Fim do processo. Tempo até restart: 300
+12:39:04: Ataque ao invasor realizado
+12:39:04: Fim do processo. Tempo até o restart: 300
+12:44:04: Iteração: 21
+12:44:25: Player da lista atacado: Maranesi
+12:44:25: Fim do processo. Tempo até restart: 300
+12:44:32: Ataque ao invasor realizado
+12:44:32: Fim do processo. Tempo até o restart: 300
+12:49:32: Iteração: 22
+12:50:03: Player do ranking atacado: Senjunagai
+12:50:03: Fim do processo. Tempo até restart: 300
+12:50:10: Ataque ao invasor realizado
+12:50:10: Fim do processo. Tempo até o restart: 300
+12:55:10: Iteração: 23
+12:55:38: Player do ranking atacado: Babidi
+12:55:38: Fim do processo. Tempo até restart: 300
+12:55:44: Ataque ao invasor realizado
+12:55:44: Fim do processo. Tempo até o restart: 300
+13:00:44: Iteração: 24
+13:01:15: Player do ranking atacado: Gunger
+13:01:15: Fim do processo. Tempo até restart: 300
+13:01:22: Ataque ao invasor realizado
+13:01:22: Fim do processo. Tempo até o restart: 300
+13:06:22: Iteração: 25
+13:06:52: Player do ranking atacado: Nuken_san
+13:06:52: Fim do processo. Tempo até restart: 300
+13:07:00: Ataque ao invasor realizado
+13:07:00: Fim do processo. Tempo até o restart: 300
+13:12:00: Iteração: 26
+13:12:32: Player do ranking atacado: Tayuya_ni
+13:12:32: Fim do processo. Tempo até restart: 300
+13:12:40: Ataque ao invasor realizado
+13:12:40: Fim do processo. Tempo até o restart: 300
+13:17:40: Iteração: 27
+13:18:13: Player do ranking atacado: Poposo
+13:18:13: Fim do processo. Tempo até restart: 300
+13:18:19: Ataque ao invasor realizado
+13:18:19: Fim do processo. Tempo até o restart: 300
+13:23:19: Iteração: 28
+13:23:51: Player do ranking atacado: Lordnet
+13:23:51: Fim do processo. Tempo até restart: 300
+13:23:56: Ataque ao invasor realizado
+13:23:56: Fim do processo. Tempo até o restart: 300
+13:28:56: Iteração: 29
+13:29:29: Player do ranking atacado: Shiryuu
+13:29:29: Fim do processo. Tempo até restart: 300
+13:29:36: Ataque ao invasor realizado
+13:29:36: Fim do processo. Tempo até o restart: 300
+13:34:36: Iteração: 30
+13:35:05: Player do ranking atacado: Itsthemath
+13:35:05: Fim do processo. Tempo até restart: 300
+13:35:13: Ataque ao invasor realizado
+13:35:13: Fim do processo. Tempo até o restart: 300
+13:40:13: Iteração: 31
+13:40:44: Player do ranking atacado: Spektro
+13:40:44: Fim do processo. Tempo até restart: 300
+13:40:51: Ataque ao invasor realizado
+13:40:51: Fim do processo. Tempo até o restart: 300
+13:45:51: Iteração: 32
+13:46:23: Player do ranking atacado: Shurazardo
+13:46:23: Fim do processo. Tempo até restart: 300
+13:46:29: Ataque ao invasor realizado
+13:46:29: Fim do processo. Tempo até o restart: 300
+13:51:29: Iteração: 33
+13:52:01: Player do ranking atacado: Charizard
+13:52:01: Fim do processo. Tempo até restart: 300
+13:52:08: Ataque ao invasor realizado
+13:52:08: Fim do processo. Tempo até o restart: 300
+13:57:08: Iteração: 34
+13:57:43: Player do ranking atacado: Wellkakuzu
+13:57:43: Fim do processo. Tempo até restart: 300
+13:57:50: Ataque ao invasor realizado
+13:57:50: Fim do processo. Tempo até o restart: 300
+14:02:50: Iteração: 35
+14:03:43: Player do ranking atacado: Kaakashi99
+14:03:43: Fim do processo. Tempo até restart: 300
+14:03:52: Ataque ao invasor realizado
+14:03:52: Fim do processo. Tempo até o restart: 300
+14:08:52: Iteração: 36
+14:09:37: Player do ranking atacado: Noct
+14:09:37: Fim do processo. Tempo até restart: 300
+14:09:51: Ataque ao invasor realizado
+14:09:51: Fim do processo. Tempo até o restart: 300
+14:14:51: Iteração: 37
+14:15:34: Player do ranking atacado: Wolf_the_ice
+14:15:34: Fim do processo. Tempo até restart: 300
+14:15:48: Ataque ao invasor realizado
+14:15:48: Fim do processo. Tempo até o restart: 300
+14:20:48: Iteração: 38
+14:21:32: Player do ranking atacado: Lecoo
+14:21:32: Fim do processo. Tempo até restart: 300
+14:21:47: Ataque ao invasor realizado
+14:21:47: Fim do processo. Tempo até o restart: 300
+14:26:47: Iteração: 39
+14:27:36: Player do ranking atacado: Ratzky
+14:27:36: Fim do processo. Tempo até restart: 300
+14:27:48: Ataque ao invasor realizado
+14:27:48: Fim do processo. Tempo até o restart: 300
+14:32:48: Iteração: 40
+14:33:48: Player do ranking atacado: Noroch
+14:33:48: Fim do processo. Tempo até restart: 300
+14:33:57: Ataque ao invasor realizado
+14:33:57: Fim do processo. Tempo até o restart: 300
+14:38:57: Iteração: 41
+14:40:45: Player do ranking atacado: Rebew
+14:40:45: Fim do processo. Tempo até restart: 300
+14:40:51: Ataque ao invasor realizado
+14:40:51: Fim do processo. Tempo até o restart: 300
+14:45:51: Iteração: 42
+14:46:32: Player do ranking atacado: Il1k3
+14:46:32: Fim do processo. Tempo até restart: 300
+14:46:39: Ataque ao invasor realizado
+14:46:39: Fim do processo. Tempo até o restart: 300
+14:51:39: Iteração: 43
+14:52:13: Player do ranking atacado: Renba
+14:52:13: Fim do processo. Tempo até restart: 300
+14:52:21: Ataque ao invasor realizado
+14:52:21: Fim do processo. Tempo até o restart: 300
+14:57:21: Iteração: 44
+14:57:50: Player do ranking atacado: Itsme
+14:57:50: Fim do processo. Tempo até restart: 300
+14:57:55: Ataque ao invasor realizado
+14:57:55: Fim do processo. Tempo até o restart: 300
+15:02:55: Iteração: 45
+15:03:25: Player do ranking atacado: Shinoua_uchiha
+15:03:25: Fim do processo. Tempo até restart: 300
+15:03:31: Ataque ao invasor realizado
+15:03:31: Fim do processo. Tempo até o restart: 300
+15:08:31: Iteração: 46
+15:09:04: Player do ranking atacado: Getzlaf
+15:09:04: Fim do processo. Tempo até restart: 300
+15:09:11: Ataque ao invasor realizado
+15:09:11: Fim do processo. Tempo até o restart: 300
+15:14:11: Iteração: 47
+15:14:46: Player do ranking atacado: Tsuna_kun
+15:14:46: Fim do processo. Tempo até restart: 300
+15:14:54: Ataque ao invasor realizado
+15:14:54: Fim do processo. Tempo até o restart: 300
+15:19:54: Iteração: 48
+15:24:05: Player do ranking atacado: Savhoya
+15:24:05: Fim do processo. Tempo até restart: 300
+15:24:16: Ataque ao invasor realizado
+15:24:16: Fim do processo. Tempo até o restart: 300
+15:29:16: Iteração: 49
+15:55:45: Player do ranking atacado: Five_hokage
+15:55:45: Fim do processo. Tempo até restart: 300
+15:55:55: Ataque ao invasor realizado
+15:55:55: Fim do processo. Tempo até o restart: 300
+16:00:55: Iteração: 50
+16:01:45: Player do ranking atacado: Capitao
+16:01:46: Fim do processo. Tempo até restart: 300
+16:01:56: Ataque ao invasor realizado
+16:01:56: Fim do processo. Tempo até o restart: 300
+16:06:56: Iteração: 51
+16:07:44: Player do ranking atacado: Cloudstrife
+16:07:44: Fim do processo. Tempo até restart: 300
+16:07:56: Ataque ao invasor realizado
+16:07:56: Fim do processo. Tempo até o restart: 300
+16:12:56: Iteração: 52
+16:14:12: Player do ranking atacado: Deson
+16:14:12: Fim do processo. Tempo até restart: 300
+16:14:21: Ataque ao invasor realizado
+16:14:21: Fim do processo. Tempo até o restart: 300
+16:19:21: Iteração: 53
+16:20:48: Player do ranking atacado: Shikamaru_nara
+16:20:49: Fim do processo. Tempo até restart: 300
+16:20:58: Ataque ao invasor realizado
+16:20:58: Fim do processo. Tempo até o restart: 300
+16:25:58: Iteração: 54
+16:27:19: Player do ranking atacado: Kakasky
+16:27:19: Fim do processo. Tempo até restart: 300
+16:27:25: Ataque ao invasor realizado
+16:27:25: Fim do processo. Tempo até o restart: 300
+16:32:25: Iteração: 55
+16:33:07: Player do ranking atacado: Luanoutsutsuki
+16:33:07: Fim do processo. Tempo até restart: 300
+16:33:17: Ataque ao invasor realizado
+16:33:17: Fim do processo. Tempo até o restart: 300
+16:38:17: Iteração: 56
+16:38:49: Player do ranking atacado: Oumashu
+16:38:49: Fim do processo. Tempo até restart: 300
+16:38:58: Ataque ao invasor realizado
+16:38:58: Fim do processo. Tempo até o restart: 300
+16:43:58: Iteração: 57
+16:44:31: Player do ranking atacado: Riven
+16:44:31: Fim do processo. Tempo até restart: 300
+16:44:39: Ataque ao invasor realizado
+16:44:39: Fim do processo. Tempo até o restart: 300
+16:49:39: Iteração: 58
+16:50:38: Player do ranking atacado: Kelly
+16:50:38: Fim do processo. Tempo até restart: 300
+16:50:45: Ataque ao invasor realizado
+16:50:45: Fim do processo. Tempo até o restart: 300
+16:55:45: Iteração: 59
+16:57:21: Player do ranking atacado: Kkikk
+16:57:21: Fim do processo. Tempo até restart: 300
+16:57:37: Ataque ao invasor realizado
+16:57:37: Fim do processo. Tempo até o restart: 300
+17:02:37: Iteração: 60
+17:03:09: Player do ranking atacado: Guifideliz
+17:03:09: Fim do processo. Tempo até restart: 300
+17:03:18: Ataque ao invasor realizado
+17:03:18: Fim do processo. Tempo até o restart: 300
+17:08:18: Iteração: 61
+17:08:55: Player do ranking atacado: Talliba
+17:08:55: Fim do processo. Tempo até restart: 300
+17:09:03: Ataque ao invasor realizado
+17:09:03: Fim do processo. Tempo até o restart: 300
+17:14:03: Iteração: 62
+17:14:41: Player do ranking atacado: Kalin
+17:14:41: Fim do processo. Tempo até restart: 300
+17:14:50: Ataque ao invasor realizado
+17:14:50: Fim do processo. Tempo até o restart: 300
+17:19:50: Iteração: 63
+17:20:25: Player do ranking atacado: Shadowmoon
+17:20:25: Fim do processo. Tempo até restart: 300
+17:20:32: Ataque ao invasor realizado
+17:20:32: Fim do processo. Tempo até o restart: 300
+17:25:32: Iteração: 64
+17:26:08: Player do ranking atacado: Revrix
+17:26:08: Fim do processo. Tempo até restart: 300
+17:26:14: Ataque ao invasor realizado
+17:26:14: Fim do processo. Tempo até o restart: 300
+17:31:14: Iteração: 65
+17:32:06: Player do ranking atacado: Glivus
+17:32:06: Fim do processo. Tempo até restart: 300
+17:32:14: Ataque ao invasor realizado
+17:32:14: Fim do processo. Tempo até o restart: 300
+17:37:14: Iteração: 66
+17:37:47: Player do ranking atacado: Dan_kato
+17:37:47: Fim do processo. Tempo até restart: 300
+17:37:56: Ataque ao invasor realizado
+17:37:56: Fim do processo. Tempo até o restart: 300
+17:42:56: Iteração: 67
+17:43:34: Player do ranking atacado: Blackbow
+17:43:34: Fim do processo. Tempo até restart: 300
+17:43:41: Ataque ao invasor realizado
+17:43:41: Fim do processo. Tempo até o restart: 300
+17:48:41: Iteração: 68
+17:49:12: Player do ranking atacado: Uchihasaitama
+17:49:12: Fim do processo. Tempo até restart: 300
+17:49:19: Ataque ao invasor realizado
+17:49:19: Fim do processo. Tempo até o restart: 300
+17:54:19: Iteração: 69
+17:54:59: Player do ranking atacado: Jokenpo
+17:54:59: Fim do processo. Tempo até restart: 300
+17:55:06: Ataque ao invasor realizado
+17:55:06: Fim do processo. Tempo até o restart: 300
+18:00:06: Iteração: 70
+18:01:04: Player do ranking atacado: Uchihaltachi
+18:01:04: Fim do processo. Tempo até restart: 300
+18:01:10: Ataque ao invasor realizado
+18:01:10: Fim do processo. Tempo até o restart: 300
+18:06:10: Iteração: 71
+18:06:47: Player do ranking atacado: Z1k4
+18:06:47: Fim do processo. Tempo até restart: 300
+18:06:51: Não há um inimigo para atacar na Invasão
+18:06:51: Fim do processo. Tempo até o restart: 300
+18:11:51: Iteração: 72
+18:12:22: Player do ranking atacado: Hawke
+18:12:22: Fim do processo. Tempo até restart: 300
+18:12:27: Não há um inimigo para atacar na Invasão
+18:12:27: Fim do processo. Tempo até o restart: 300
+18:17:27: Iteração: 73
+18:17:59: Player do ranking atacado: Hokage798
+18:18:00: Fim do processo. Tempo até restart: 300
+18:18:03: Não há um inimigo para atacar na Invasão
+18:18:03: Fim do processo. Tempo até o restart: 300
+18:23:03: Iteração: 74
+18:23:37: Player do ranking atacado: Kaizy
+18:23:37: Fim do processo. Tempo até restart: 300
+18:23:41: Não há um inimigo para atacar na Invasão
+18:23:41: Fim do processo. Tempo até o restart: 300
+18:28:41: Iteração: 75
+18:29:15: Player do ranking atacado: Wictorbr4
+18:29:15: Fim do processo. Tempo até restart: 300
+18:29:19: Não há um inimigo para atacar na Invasão
+18:29:19: Fim do processo. Tempo até o restart: 300
+18:34:19: Iteração: 76
+18:34:49: Player do ranking atacado: Ragnar
+18:34:50: Fim do processo. Tempo até restart: 300
+18:34:54: Não há um inimigo para atacar na Invasão
+18:34:54: Fim do processo. Tempo até o restart: 300
+18:39:54: Iteração: 77
+18:40:27: Player do ranking atacado: Sunshine
+18:40:27: Fim do processo. Tempo até restart: 300
+18:40:33: Não há um inimigo para atacar na Invasão
+18:40:33: Fim do processo. Tempo até o restart: 300
+18:45:33: Iteração: 78
+18:46:05: Player do ranking atacado: Lberthuml
+18:46:05: Fim do processo. Tempo até restart: 300
+18:46:09: Não há um inimigo para atacar na Invasão
+18:46:09: Fim do processo. Tempo até o restart: 300
+18:51:09: Iteração: 79
+18:51:43: Player do ranking atacado: _killer13_
+18:51:43: Fim do processo. Tempo até restart: 300
+18:51:47: Não há um inimigo para atacar na Invasão
+18:51:47: Fim do processo. Tempo até o restart: 300
+18:56:47: Iteração: 80
+18:57:16: Player do ranking atacado: Tarcix
+18:57:16: Fim do processo. Tempo até restart: 300
+18:57:20: Não há um inimigo para atacar na Invasão
+18:57:20: Fim do processo. Tempo até o restart: 300
+19:02:20: Iteração: 81
+19:02:52: Player do ranking atacado: Lordhades
+19:02:53: Fim do processo. Tempo até restart: 300
+19:02:57: Não há um inimigo para atacar na Invasão
+19:02:57: Fim do processo. Tempo até o restart: 300
+19:07:57: Iteração: 82
+19:08:42: Player do ranking atacado: Ashura1
+19:08:42: Fim do processo. Tempo até restart: 300
+19:08:49: Não há um inimigo para atacar na Invasão
+19:08:49: Fim do processo. Tempo até o restart: 300
+19:13:49: Iteração: 83
+19:14:17: Player do ranking atacado: Jgabila
+19:14:17: Fim do processo. Tempo até restart: 300
+19:14:21: Não há um inimigo para atacar na Invasão
+19:14:21: Fim do processo. Tempo até o restart: 300
+19:19:21: Iteração: 84
+19:19:51: Player do ranking atacado: Jose0202
+19:19:51: Fim do processo. Tempo até restart: 300
+19:19:55: Não há um inimigo para atacar na Invasão
+19:19:55: Fim do processo. Tempo até o restart: 300
+19:24:55: Iteração: 85
+19:25:23: Player do ranking atacado: Fenethor
+19:25:23: Fim do processo. Tempo até restart: 300
+19:25:27: Não há um inimigo para atacar na Invasão
+19:25:27: Fim do processo. Tempo até o restart: 300
+19:30:27: Iteração: 86
+19:31:00: Player do ranking atacado: Rockleept
+19:31:00: Fim do processo. Tempo até restart: 300
+19:31:04: Não há um inimigo para atacar na Invasão
+19:31:04: Fim do processo. Tempo até o restart: 300
+19:36:04: Iteração: 87
+19:36:34: Player do ranking atacado: Mystik
+19:36:34: Fim do processo. Tempo até restart: 300
+19:36:40: Não há um inimigo para atacar na Invasão
+19:36:40: Fim do processo. Tempo até o restart: 300
+19:41:40: Iteração: 88
+19:42:11: Player do ranking atacado: Koalaflash
+19:42:11: Fim do processo. Tempo até restart: 300
+19:42:15: Não há um inimigo para atacar na Invasão
+19:42:15: Fim do processo. Tempo até o restart: 300
+19:47:15: Iteração: 89
+19:47:50: Player do ranking atacado: Fazolii
+19:47:50: Fim do processo. Tempo até restart: 300
+19:47:54: Não há um inimigo para atacar na Invasão
+19:47:54: Fim do processo. Tempo até o restart: 300
+19:52:54: Iteração: 90
+19:53:24: Player do ranking atacado: Akahoshi
+19:53:24: Fim do processo. Tempo até restart: 300
+19:53:28: Não há um inimigo para atacar na Invasão
+19:53:28: Fim do processo. Tempo até o restart: 300
+19:58:28: Iteração: 91
+19:58:57: Player do ranking atacado: Pedrotv
+19:58:57: Fim do processo. Tempo até restart: 300
+19:59:01: Não há um inimigo para atacar na Invasão
+19:59:01: Fim do processo. Tempo até o restart: 300
+20:04:01: Iteração: 92
+20:04:30: Player do ranking atacado: Jeivz
+20:04:30: Fim do processo. Tempo até restart: 300
+20:04:37: Ataque ao invasor realizado
+20:04:37: Fim do processo. Tempo até o restart: 300
+20:09:37: Iteração: 93
+20:10:07: Player do ranking atacado: Jgil3000
+20:10:07: Fim do processo. Tempo até restart: 300
+20:10:13: Ataque ao invasor realizado
+20:10:13: Fim do processo. Tempo até o restart: 300
+20:15:13: Iteração: 94
+20:15:40: Player do ranking atacado: Semganksemkill
+20:15:40: Fim do processo. Tempo até restart: 300
+20:15:45: Ataque ao invasor realizado
+20:15:45: Fim do processo. Tempo até o restart: 300
+20:20:45: Iteração: 95
+20:21:31: Player do ranking atacado: Booicaaa
+20:21:31: Fim do processo. Tempo até restart: 300
+20:21:39: Ataque ao invasor realizado
+20:21:39: Fim do processo. Tempo até o restart: 300
+20:26:39: Iteração: 96
+20:27:08: Player do ranking atacado: Lee_doidaum
+20:27:08: Fim do processo. Tempo até restart: 300
+20:27:14: Ataque ao invasor realizado
+20:27:14: Fim do processo. Tempo até o restart: 300
+20:32:14: Iteração: 97
+20:32:45: Player do ranking atacado: Nackone
+20:32:45: Fim do processo. Tempo até restart: 300
+20:32:51: Ataque ao invasor realizado
+20:32:51: Fim do processo. Tempo até o restart: 300
+20:37:51: Iteração: 98
+20:38:22: Player do ranking atacado: Noobadamant
+20:38:22: Fim do processo. Tempo até restart: 300
+20:38:29: Ataque ao invasor realizado
+20:38:29: Fim do processo. Tempo até o restart: 300
+20:43:29: Iteração: 99
+20:43:57: Player do ranking atacado: Darkslif
+20:43:57: Fim do processo. Tempo até restart: 300
+20:44:05: Ataque ao invasor realizado
+20:44:05: Fim do processo. Tempo até o restart: 300
+20:49:05: Iteração: 100
+20:49:39: Player do ranking atacado: Nohope
+20:49:39: Fim do processo. Tempo até restart: 300
+20:49:46: Ataque ao invasor realizado
+20:49:46: Fim do processo. Tempo até o restart: 300
+20:54:46: Iteração: 101
+20:55:17: Player do ranking atacado: Fidamento
+20:55:18: Fim do processo. Tempo até restart: 300
+20:55:23: Ataque ao invasor realizado
+20:55:23: Fim do processo. Tempo até o restart: 300
+21:00:23: Iteração: 102
+21:00:55: Player do ranking atacado: Shiruba
+21:00:55: Fim do processo. Tempo até restart: 300
+21:01:01: Ataque ao invasor realizado
+21:01:01: Fim do processo. Tempo até o restart: 300
+21:06:01: Iteração: 103
+21:06:35: Player do ranking atacado: Nopa
+21:06:35: Fim do processo. Tempo até restart: 300
+21:06:42: Ataque ao invasor realizado
+21:06:42: Fim do processo. Tempo até o restart: 300
+21:11:42: Iteração: 104
+21:12:12: Player do ranking atacado: Guntz
+21:12:12: Fim do processo. Tempo até restart: 300
+21:12:19: Ataque ao invasor realizado
+21:12:19: Fim do processo. Tempo até o restart: 300
+21:17:19: Iteração: 105
+21:17:50: Player do ranking atacado: Groba
+21:17:50: Fim do processo. Tempo até restart: 300
+21:17:59: Ataque ao invasor realizado
+21:17:59: Fim do processo. Tempo até o restart: 300
+21:22:59: Iteração: 106
+21:23:34: Player do ranking atacado: Sh3rm4ns
+21:23:34: Fim do processo. Tempo até restart: 300
+21:23:41: Ataque ao invasor realizado
+21:23:41: Fim do processo. Tempo até o restart: 300
+21:28:41: Iteração: 107
+21:29:15: Player do ranking atacado: Madaraa
+21:29:16: Fim do processo. Tempo até restart: 300
+21:29:25: Ataque ao invasor realizado
+21:29:25: Fim do processo. Tempo até o restart: 300
+21:34:25: Iteração: 108
+21:35:02: Player do ranking atacado: Jhunto_lee
+21:35:02: Fim do processo. Tempo até restart: 300
+21:35:09: Ataque ao invasor realizado
+21:35:09: Fim do processo. Tempo até o restart: 300
+21:40:09: Iteração: 109
+21:40:44: Player do ranking atacado: Kobauto
+21:40:44: Fim do processo. Tempo até restart: 300
+21:40:51: Ataque ao invasor realizado
+21:40:51: Fim do processo. Tempo até o restart: 300
+21:45:51: Iteração: 110
+21:46:24: Player do ranking atacado: Senestro0
+21:46:24: Fim do processo. Tempo até restart: 300
+21:46:30: Ataque ao invasor realizado
+21:46:30: Fim do processo. Tempo até o restart: 300
+21:51:30: Iteração: 111
+21:52:00: Player do ranking atacado: Caganatoca
+21:52:00: Fim do processo. Tempo até restart: 300
+21:52:09: Ataque ao invasor realizado
+21:52:09: Fim do processo. Tempo até o restart: 300
+21:57:09: Iteração: 112
+21:57:40: Player do ranking atacado: S4suk3
+21:57:40: Fim do processo. Tempo até restart: 300
+21:57:48: Ataque ao invasor realizado
+21:57:48: Fim do processo. Tempo até o restart: 300
+22:02:48: Iteração: 113
+22:03:24: Player do ranking atacado: Daoshi
+22:03:25: Fim do processo. Tempo até restart: 300
+22:03:31: Ataque ao invasor realizado
+22:03:31: Fim do processo. Tempo até o restart: 300
+22:08:31: Iteração: 114
+22:09:01: Player do ranking atacado: Shadojj
+22:09:01: Fim do processo. Tempo até restart: 300
+22:09:12: Ataque ao invasor realizado
+22:09:12: Fim do processo. Tempo até o restart: 300
+22:14:12: Iteração: 115
+22:14:45: Player do ranking atacado: Vemkde4
+22:14:46: Fim do processo. Tempo até restart: 300
+22:14:55: Ataque ao invasor realizado
+22:14:55: Fim do processo. Tempo até o restart: 300
+22:19:55: Iteração: 116
+22:20:31: Player do ranking atacado: Hashirama_edo
+22:20:31: Fim do processo. Tempo até restart: 300
+22:20:40: Ataque ao invasor realizado
+22:20:40: Fim do processo. Tempo até o restart: 300
+22:25:40: Iteração: 117
+22:26:15: Player do ranking atacado: Semganksemkill1
+22:26:15: Fim do processo. Tempo até restart: 300
+22:26:23: Ataque ao invasor realizado
+22:26:23: Fim do processo. Tempo até o restart: 300
+22:31:23: Iteração: 118
+22:31:53: Player do ranking atacado: Doidoo
+22:31:54: Fim do processo. Tempo até restart: 300
+22:32:01: Ataque ao invasor realizado
+22:32:01: Fim do processo. Tempo até o restart: 300
+22:37:01: Iteração: 119
+22:37:38: Player do ranking atacado: Kuroein
+22:37:38: Fim do processo. Tempo até restart: 300
+22:37:45: Ataque ao invasor realizado
+22:37:45: Fim do processo. Tempo até o restart: 300
+22:42:45: Iteração: 120
+22:43:51: Player do ranking atacado: Biroskaxd
+22:43:52: Fim do processo. Tempo até restart: 300
+22:44:01: Ataque ao invasor realizado
+22:44:01: Fim do processo. Tempo até o restart: 300

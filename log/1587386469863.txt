@@ -1,0 +1,243 @@
+
+09:41:33: Iteração: 1
+09:41:40: Ainda tem tempo pra caçar
+09:41:42: Não tem relógio
+09:41:52: Caçada realizada
+09:41:52: Fim do processo. Tempo até o restart: 300
+09:46:52: Iteração: 2
+09:46:59: Ainda tem tempo pra caçar
+09:46:59: Tem relógio
+09:46:59: Apenas receber recompensa
+09:47:18: Caçada realizada
+09:47:18: Fim do processo. Tempo até o restart: 300
+09:52:18: Iteração: 3
+09:52:28: Ainda tem tempo pra caçar
+09:52:28: Tem relógio
+09:52:28: Apenas receber recompensa
+09:52:46: Caçada realizada
+09:52:46: Fim do processo. Tempo até o restart: 300
+09:57:46: Iteração: 4
+09:57:57: Ainda tem tempo pra caçar
+09:57:57: Tem relógio
+09:57:57: Apenas receber recompensa
+09:58:18: Caçada realizada
+09:58:18: Fim do processo. Tempo até o restart: 300
+10:03:18: Iteração: 5
+10:03:28: Ainda tem tempo pra caçar
+10:03:28: Tem relógio
+10:03:28: Apenas receber recompensa
+10:03:49: Caçada realizada
+10:03:49: Fim do processo. Tempo até o restart: 300
+10:08:49: Iteração: 6
+10:08:57: Ainda tem tempo pra caçar
+10:08:57: Tem relógio
+10:08:57: Apenas receber recompensa
+10:09:15: Caçada realizada
+10:09:15: Fim do processo. Tempo até o restart: 300
+10:14:15: Iteração: 7
+10:14:25: Ainda tem tempo pra caçar
+10:14:25: Tem relógio
+10:14:25: Apenas receber recompensa
+10:14:39: Caçada realizada
+10:14:39: Fim do processo. Tempo até o restart: 300
+10:19:39: Iteração: 8
+10:19:48: Ainda tem tempo pra caçar
+10:19:48: Tem relógio
+10:19:48: Apenas receber recompensa
+10:20:06: Caçada realizada
+10:20:06: Fim do processo. Tempo até o restart: 300
+10:25:06: Iteração: 9
+10:25:14: Ainda tem tempo pra caçar
+10:25:14: Tem relógio
+10:25:14: Apenas receber recompensa
+10:25:29: Caçada realizada
+10:25:29: Fim do processo. Tempo até o restart: 300
+10:30:29: Iteração: 10
+10:30:38: Ainda tem tempo pra caçar
+10:30:38: Tem relógio
+10:30:38: Apenas receber recompensa
+10:30:54: Caçada realizada
+10:30:54: Fim do processo. Tempo até o restart: 300
+10:35:54: Iteração: 11
+10:36:02: Ainda tem tempo pra caçar
+10:36:02: Tem relógio
+10:36:02: Apenas receber recompensa
+10:36:22: Caçada realizada
+10:36:22: Fim do processo. Tempo até o restart: 300
+10:41:22: Iteração: 12
+10:41:30: Ainda tem tempo pra caçar
+10:41:30: Tem relógio
+10:41:30: Apenas receber recompensa
+10:41:44: Caçada realizada
+10:41:44: Fim do processo. Tempo até o restart: 300
+10:46:44: Iteração: 13
+10:46:53: Ainda tem tempo pra caçar
+10:46:53: Tem relógio
+10:46:53: Apenas receber recompensa
+10:47:01: Acabou o tempo da caçada
+10:47:01: Fim do processo. Tempo até o restart: 300
+10:52:01: Iteração: 14
+10:52:07: Acabou o tempo da caçada
+10:52:33: Player da lista atacado: Masashi
+10:52:33: Fim do processo. Tempo até restart: 300
+10:52:33: Fim do processo. Tempo até o restart: 300
+10:57:33: Iteração: 15
+10:57:54: Player da lista atacado: Trivela
+10:57:54: Fim do processo. Tempo até restart: 300
+10:57:54: Fim do processo. Tempo até o restart: 300
+11:02:54: Iteração: 16
+11:03:13: Player da lista atacado: Deson
+11:03:14: Fim do processo. Tempo até restart: 300
+11:03:14: Fim do processo. Tempo até o restart: 300
+11:08:14: Iteração: 17
+11:08:37: Player da lista atacado: Koalaflash
+11:08:37: Fim do processo. Tempo até restart: 300
+11:08:37: Fim do processo. Tempo até o restart: 300
+11:13:37: Iteração: 18
+11:13:59: Player da lista atacado: Rebew
+11:13:59: Fim do processo. Tempo até restart: 300
+11:13:59: Fim do processo. Tempo até o restart: 300
+11:18:59: Iteração: 19
+11:19:19: Player da lista atacado: Maranesi
+11:19:19: Fim do processo. Tempo até restart: 300
+11:19:19: Fim do processo. Tempo até o restart: 300
+11:24:19: Iteração: 20
+11:24:41: Player da lista atacado: Kuro_okkami
+11:24:41: Fim do processo. Tempo até restart: 300
+11:24:41: Fim do processo. Tempo até o restart: 300
+11:29:41: Iteração: 21
+11:30:05: Player da lista atacado: Uchihasaitama
+11:30:05: Fim do processo. Tempo até restart: 300
+11:30:05: Fim do processo. Tempo até o restart: 300
+11:35:05: Iteração: 22
+11:35:29: Player da lista atacado: Lordhades
+11:35:29: Fim do processo. Tempo até restart: 300
+11:35:29: Fim do processo. Tempo até o restart: 300
+11:40:29: Iteração: 23
+11:41:06: Player do ranking atacado: Biroskaxd
+11:41:06: Fim do processo. Tempo até restart: 300
+11:41:06: Fim do processo. Tempo até o restart: 300
+11:46:06: Iteração: 24
+11:46:36: Player do ranking atacado: Tonange
+11:46:36: Fim do processo. Tempo até restart: 300
+11:46:36: Fim do processo. Tempo até o restart: 300
+11:51:36: Iteração: 25
+11:52:08: Player do ranking atacado: Ngxninjass
+11:52:08: Fim do processo. Tempo até restart: 300
+11:52:08: Fim do processo. Tempo até o restart: 300
+11:57:08: Iteração: 26
+11:57:39: Player do ranking atacado: Skullmega
+11:57:39: Fim do processo. Tempo até restart: 300
+11:57:39: Fim do processo. Tempo até o restart: 300
+12:02:39: Iteração: 27
+12:03:12: Player do ranking atacado: Entp
+12:03:12: Fim do processo. Tempo até restart: 300
+12:03:12: Fim do processo. Tempo até o restart: 300
+12:08:12: Iteração: 28
+12:09:04: Player do ranking atacado: Numi
+12:09:04: Fim do processo. Tempo até restart: 300
+12:09:04: Fim do processo. Tempo até o restart: 300
+12:14:04: Iteração: 29
+12:14:33: Player do ranking atacado: Nagato_uzumaki
+12:14:33: Fim do processo. Tempo até restart: 300
+12:14:33: Fim do processo. Tempo até o restart: 300
+12:19:33: Iteração: 30
+12:20:05: Player do ranking atacado: Brn_sl
+12:20:05: Fim do processo. Tempo até restart: 300
+12:20:05: Fim do processo. Tempo até o restart: 300
+12:25:05: Iteração: 31
+12:25:34: Player do ranking atacado: Henrique_uchiha
+12:25:34: Fim do processo. Tempo até restart: 300
+12:25:34: Fim do processo. Tempo até o restart: 300
+12:30:34: Iteração: 32
+12:31:05: Player do ranking atacado: Cabeloskt
+12:31:05: Fim do processo. Tempo até restart: 300
+12:31:05: Fim do processo. Tempo até o restart: 300
+12:36:05: Iteração: 33
+12:36:38: Player do ranking atacado: Dei_dara
+12:36:38: Fim do processo. Tempo até restart: 300
+12:36:38: Fim do processo. Tempo até o restart: 300
+12:41:38: Iteração: 34
+12:42:25: Player do ranking atacado: Gabrielsdc
+12:42:25: Fim do processo. Tempo até restart: 300
+12:42:25: Fim do processo. Tempo até o restart: 300
+12:47:25: Iteração: 35
+12:47:57: Player do ranking atacado: Soueu
+12:47:57: Fim do processo. Tempo até restart: 300
+12:47:57: Fim do processo. Tempo até o restart: 300
+12:52:57: Iteração: 36
+12:53:29: Player do ranking atacado: Shimura
+12:53:29: Fim do processo. Tempo até restart: 300
+12:53:29: Fim do processo. Tempo até o restart: 300
+12:58:29: Iteração: 37
+12:58:58: Player do ranking atacado: Bestintheworld
+12:58:58: Fim do processo. Tempo até restart: 300
+12:58:58: Fim do processo. Tempo até o restart: 300
+13:03:58: Iteração: 38
+13:04:30: Player do ranking atacado: Sakurei
+13:04:30: Fim do processo. Tempo até restart: 300
+13:04:30: Fim do processo. Tempo até o restart: 300
+13:09:30: Iteração: 39
+13:10:00: Player do ranking atacado: Darkheaven
+13:10:00: Fim do processo. Tempo até restart: 300
+13:10:00: Fim do processo. Tempo até o restart: 300
+13:15:00: Iteração: 40
+13:15:32: Player do ranking atacado: Whelz
+13:15:32: Fim do processo. Tempo até restart: 300
+13:15:32: Fim do processo. Tempo até o restart: 300
+13:20:32: Iteração: 41
+13:21:02: Player do ranking atacado: Yukimura
+13:21:02: Fim do processo. Tempo até restart: 300
+13:21:02: Fim do processo. Tempo até o restart: 300
+13:26:02: Iteração: 42
+13:26:33: Player do ranking atacado: _uchiha_itachi_
+13:26:33: Fim do processo. Tempo até restart: 300
+13:26:33: Fim do processo. Tempo até o restart: 300
+13:31:33: Iteração: 43
+13:32:03: Player do ranking atacado: Nathan279
+13:32:03: Fim do processo. Tempo até restart: 300
+13:32:03: Fim do processo. Tempo até o restart: 300
+13:37:03: Iteração: 44
+13:37:34: Player do ranking atacado: Mauricio
+13:37:34: Fim do processo. Tempo até restart: 300
+13:37:34: Fim do processo. Tempo até o restart: 300
+13:42:34: Iteração: 45
+13:43:06: Player do ranking atacado: Badnewsbarret
+13:43:06: Fim do processo. Tempo até restart: 300
+13:43:06: Fim do processo. Tempo até o restart: 300
+13:48:06: Iteração: 46
+13:48:36: Player do ranking atacado: Danteuzumak
+13:48:36: Fim do processo. Tempo até restart: 300
+13:48:36: Fim do processo. Tempo até o restart: 300
+13:53:36: Iteração: 47
+13:54:13: Player do ranking atacado: Djuninho312
+13:54:13: Fim do processo. Tempo até restart: 300
+13:54:13: Fim do processo. Tempo até o restart: 300
+13:59:13: Iteração: 48
+13:59:43: Player do ranking atacado: Gaara_kun
+13:59:43: Fim do processo. Tempo até restart: 300
+13:59:43: Fim do processo. Tempo até o restart: 300
+14:04:43: Iteração: 49
+14:05:18: Player do ranking atacado: Rikinnoran
+14:05:18: Fim do processo. Tempo até restart: 300
+14:05:18: Fim do processo. Tempo até o restart: 300
+14:10:18: Iteração: 50
+14:10:51: Player do ranking atacado: Itachi00
+14:10:51: Fim do processo. Tempo até restart: 300
+14:10:51: Fim do processo. Tempo até o restart: 300
+14:15:51: Iteração: 51
+14:16:21: Player do ranking atacado: Diabetic
+14:16:21: Fim do processo. Tempo até restart: 300
+14:16:21: Fim do processo. Tempo até o restart: 300
+14:21:21: Iteração: 52
+14:21:57: Player do ranking atacado: Carai_de_asa
+14:21:57: Fim do processo. Tempo até restart: 300
+14:21:57: Fim do processo. Tempo até o restart: 300
+14:26:57: Iteração: 53
+14:27:29: Player do ranking atacado: Abner
+14:27:29: Fim do processo. Tempo até restart: 300
+14:27:29: Fim do processo. Tempo até o restart: 300
+14:32:29: Iteração: 54
+14:33:22: Player do ranking atacado: Showoff
+14:33:22: Fim do processo. Tempo até restart: 300
+14:33:22: Fim do processo. Tempo até o restart: 300

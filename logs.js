@@ -17,7 +17,7 @@ function updateParams(selectedVillage, rankingCount, page) {
 
 function removePlayers(enemies) {
   enemies = enemies.filter(enemy => {
-    if(enemy.ryous > 100) return true
+    if(enemy.ryous > 2) return true
   })
 
   fs.writeFile('ListaDeAtaque.txt', JSON.stringify(enemies), err => {

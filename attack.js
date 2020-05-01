@@ -79,7 +79,7 @@ async function getPlayerName() {
     let div = await rows[this.rankingCount].findElement(By.className('col_css_ranking_vila'))
     let title = await div.findElement(By.tagName('img')).getAttribute('title')
 
-    if(level < 10) {
+    if(level < 21) {
       let div = await rows[this.rankingCount].findElement(By.className('col_css_ranking_vila'))
       let title = await div.findElement(By.tagName('img')).getAttribute('title')
 

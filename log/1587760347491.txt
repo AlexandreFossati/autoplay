@@ -1,0 +1,123 @@
+
+17:32:48: Iteração: 1
+17:32:56: Ainda tem tempo pra caçar
+17:32:58: Não tem relógio
+17:33:06: Caçada realizada
+17:33:06: Fim do processo. Tempo até o restart: 300
+17:38:06: Iteração: 2
+17:38:14: Ainda tem tempo pra caçar
+17:38:14: Tem relógio
+17:38:14: Apenas receber recompensa
+17:38:26: Caçada realizada
+17:38:26: Fim do processo. Tempo até o restart: 300
+17:43:26: Iteração: 3
+17:43:32: Ainda tem tempo pra caçar
+17:43:32: Tem relógio
+17:43:32: Apenas receber recompensa
+17:43:45: Caçada realizada
+17:43:45: Fim do processo. Tempo até o restart: 300
+17:48:45: Iteração: 4
+17:48:52: Ainda tem tempo pra caçar
+17:48:52: Tem relógio
+17:48:52: Apenas receber recompensa
+17:49:03: Caçada realizada
+17:49:03: Fim do processo. Tempo até o restart: 300
+17:54:03: Iteração: 5
+17:54:10: Ainda tem tempo pra caçar
+17:54:10: Tem relógio
+17:54:10: Apenas receber recompensa
+17:54:25: Caçada realizada
+17:54:25: Fim do processo. Tempo até o restart: 300
+17:59:25: Iteração: 6
+17:59:32: Ainda tem tempo pra caçar
+17:59:32: Tem relógio
+17:59:32: Apenas receber recompensa
+17:59:49: Caçada realizada
+17:59:49: Fim do processo. Tempo até o restart: 300
+18:04:49: Iteração: 7
+18:04:55: Ainda tem tempo pra caçar
+18:04:55: Tem relógio
+18:04:55: Apenas receber recompensa
+18:05:09: Caçada realizada
+18:05:09: Fim do processo. Tempo até o restart: 300
+18:10:09: Iteração: 8
+18:10:16: Ainda tem tempo pra caçar
+18:10:16: Tem relógio
+18:10:16: Apenas receber recompensa
+18:10:30: Caçada realizada
+18:10:30: Fim do processo. Tempo até o restart: 300
+18:15:30: Iteração: 9
+18:15:37: Ainda tem tempo pra caçar
+18:15:37: Tem relógio
+18:15:37: Apenas receber recompensa
+18:15:51: Caçada realizada
+18:15:51: Fim do processo. Tempo até o restart: 300
+18:20:51: Iteração: 10
+18:20:58: Ainda tem tempo pra caçar
+18:20:58: Tem relógio
+18:20:58: Apenas receber recompensa
+18:21:12: Caçada realizada
+18:21:12: Fim do processo. Tempo até o restart: 300
+18:26:12: Iteração: 11
+18:26:19: Ainda tem tempo pra caçar
+18:26:19: Tem relógio
+18:26:19: Apenas receber recompensa
+18:26:33: Caçada realizada
+18:26:33: Fim do processo. Tempo até o restart: 300
+18:31:33: Iteração: 12
+18:31:40: Ainda tem tempo pra caçar
+18:31:40: Tem relógio
+18:31:40: Apenas receber recompensa
+18:31:50: Caçada realizada
+18:31:50: Fim do processo. Tempo até o restart: 300
+18:36:50: Iteração: 13
+18:36:57: Ainda tem tempo pra caçar
+18:36:57: Tem relógio
+18:36:57: Apenas receber recompensa
+18:37:05: Acabou o tempo da caçada
+18:37:05: Fim do processo. Tempo até o restart: 300
+18:42:05: Iteração: 14
+18:42:11: Acabou o tempo da caçada
+18:42:43: Player da lista atacado: Trivela
+18:42:43: Fim do processo. Tempo até restart: 300
+18:42:43: Fim do processo. Tempo até o restart: 300
+18:47:43: Iteração: 15
+18:48:38: Player da lista atacado: Kyuren
+18:48:38: Fim do processo. Tempo até restart: 300
+18:48:38: Fim do processo. Tempo até o restart: 300
+18:53:38: Iteração: 16
+18:53:57: Player da lista atacado: Kuro_okkami
+18:53:57: Fim do processo. Tempo até restart: 300
+18:53:57: Fim do processo. Tempo até o restart: 300
+18:58:57: Iteração: 17
+18:59:37: Player da lista atacado: Kiubini
+18:59:37: Fim do processo. Tempo até restart: 300
+18:59:37: Fim do processo. Tempo até o restart: 300
+19:04:37: Iteração: 18
+19:04:55: Player da lista atacado: Stevan
+19:04:55: Fim do processo. Tempo até restart: 300
+19:04:55: Fim do processo. Tempo até o restart: 300
+19:09:55: Iteração: 19
+19:10:35: Player da lista atacado: Frankenstein
+19:10:35: Fim do processo. Tempo até restart: 300
+19:10:35: Fim do processo. Tempo até o restart: 300
+19:15:35: Iteração: 20
+19:16:12: Player da lista atacado: Kush
+19:16:12: Fim do processo. Tempo até restart: 300
+19:16:12: Fim do processo. Tempo até o restart: 300
+19:21:12: Iteração: 21
+19:22:09: Player do ranking atacado: Kronos7001
+19:22:09: Fim do processo. Tempo até restart: 300
+19:22:09: Fim do processo. Tempo até o restart: 300
+19:27:09: Iteração: 22
+19:27:37: Player do ranking atacado: _haku
+19:27:37: Fim do processo. Tempo até restart: 300
+19:27:37: Fim do processo. Tempo até o restart: 300
+19:32:37: Iteração: 23
+19:33:03: Player do ranking atacado: Rikudou_madara
+19:33:03: Fim do processo. Tempo até restart: 300
+19:33:03: Fim do processo. Tempo até o restart: 300
+19:38:03: Iteração: 24
+19:38:33: Player do ranking atacado: Jake
+19:38:33: Fim do processo. Tempo até restart: 300
+19:38:33: Fim do processo. Tempo até o restart: 300

@@ -1,0 +1,142 @@
+
+19:05:22: Iteração: 1
+19:05:34: Ataque ao invasor realizado
+19:05:34: Fim do processo. Tempo até o restart: 300
+19:10:34: Iteração: 2
+19:10:45: Ataque ao invasor realizado
+19:10:45: Fim do processo. Tempo até o restart: 300
+19:15:45: Iteração: 3
+19:15:54: Ataque ao invasor realizado
+19:15:54: Fim do processo. Tempo até o restart: 300
+19:20:54: Iteração: 4
+19:21:04: Ataque ao invasor realizado
+19:21:04: Fim do processo. Tempo até o restart: 300
+19:26:04: Iteração: 5
+19:26:14: Ataque ao invasor realizado
+19:26:14: Fim do processo. Tempo até o restart: 300
+19:31:14: Iteração: 6
+19:31:23: Ataque ao invasor realizado
+19:31:23: Fim do processo. Tempo até o restart: 300
+19:36:23: Iteração: 7
+19:36:34: Ataque ao invasor realizado
+19:36:34: Fim do processo. Tempo até o restart: 300
+19:41:34: Iteração: 8
+19:41:44: Ataque ao invasor realizado
+19:41:44: Fim do processo. Tempo até o restart: 300
+19:46:44: Iteração: 9
+19:46:54: Ataque ao invasor realizado
+19:46:54: Fim do processo. Tempo até o restart: 300
+19:51:54: Iteração: 10
+19:52:04: Ataque ao invasor realizado
+19:52:04: Fim do processo. Tempo até o restart: 300
+19:57:04: Iteração: 11
+19:57:14: Ataque ao invasor realizado
+19:57:14: Fim do processo. Tempo até o restart: 300
+20:02:14: Iteração: 12
+20:02:21: Ataque ao invasor realizado
+20:02:21: Fim do processo. Tempo até o restart: 300
+20:07:21: Iteração: 13
+20:07:30: Ataque ao invasor realizado
+20:07:30: Fim do processo. Tempo até o restart: 300
+20:12:30: Iteração: 14
+20:12:38: Ataque ao invasor realizado
+20:12:38: Fim do processo. Tempo até o restart: 300
+20:17:38: Iteração: 15
+20:17:48: Ataque ao invasor realizado
+20:17:48: Fim do processo. Tempo até o restart: 300
+20:22:48: Iteração: 16
+20:22:54: Ataque ao invasor realizado
+20:22:54: Fim do processo. Tempo até o restart: 300
+20:27:54: Iteração: 17
+20:28:06: Ataque ao invasor realizado
+20:28:06: Fim do processo. Tempo até o restart: 300
+20:33:06: Iteração: 18
+20:33:14: Ataque ao invasor realizado
+20:33:14: Fim do processo. Tempo até o restart: 300
+20:38:14: Iteração: 19
+20:38:23: Ataque ao invasor realizado
+20:38:23: Fim do processo. Tempo até o restart: 300
+20:43:23: Iteração: 20
+20:43:33: Ataque ao invasor realizado
+20:43:33: Fim do processo. Tempo até o restart: 300
+20:48:33: Iteração: 21
+20:48:40: Ataque ao invasor realizado
+20:48:40: Fim do processo. Tempo até o restart: 300
+20:53:40: Iteração: 22
+20:53:48: Ataque ao invasor realizado
+20:53:48: Fim do processo. Tempo até o restart: 300
+20:58:48: Iteração: 23
+20:58:56: Ataque ao invasor realizado
+20:58:56: Fim do processo. Tempo até o restart: 300
+21:03:56: Iteração: 24
+21:04:06: Ataque ao invasor realizado
+21:04:06: Fim do processo. Tempo até o restart: 300
+21:09:06: Iteração: 25
+21:09:16: Ataque ao invasor realizado
+21:09:16: Fim do processo. Tempo até o restart: 300
+21:14:16: Iteração: 26
+21:14:25: Ataque ao invasor realizado
+21:14:25: Fim do processo. Tempo até o restart: 300
+21:19:25: Iteração: 27
+21:19:33: Ataque ao invasor realizado
+21:19:33: Fim do processo. Tempo até o restart: 300
+21:24:33: Iteração: 28
+21:24:43: Ataque ao invasor realizado
+21:24:43: Fim do processo. Tempo até o restart: 300
+21:29:43: Iteração: 29
+21:29:50: Ataque ao invasor realizado
+21:29:50: Fim do processo. Tempo até o restart: 300
+21:34:50: Iteração: 30
+21:34:58: Ataque ao invasor realizado
+21:34:58: Fim do processo. Tempo até o restart: 300
+21:39:58: Iteração: 31
+21:40:07: Ataque ao invasor realizado
+21:40:07: Fim do processo. Tempo até o restart: 300
+21:45:07: Iteração: 32
+21:45:15: Ataque ao invasor realizado
+21:45:15: Fim do processo. Tempo até o restart: 300
+21:50:15: Iteração: 33
+21:50:22: Ataque ao invasor realizado
+21:50:22: Fim do processo. Tempo até o restart: 300
+21:55:22: Iteração: 34
+21:55:32: Ataque ao invasor realizado
+21:55:32: Fim do processo. Tempo até o restart: 300
+22:00:32: Iteração: 35
+22:00:41: Ataque ao invasor realizado
+22:00:41: Fim do processo. Tempo até o restart: 300
+22:05:41: Iteração: 36
+22:05:49: Ataque ao invasor realizado
+22:05:49: Fim do processo. Tempo até o restart: 300
+22:10:49: Iteração: 37
+22:10:59: Ataque ao invasor realizado
+22:10:59: Fim do processo. Tempo até o restart: 300
+22:15:59: Iteração: 38
+22:16:07: Ataque ao invasor realizado
+22:16:07: Fim do processo. Tempo até o restart: 300
+22:21:07: Iteração: 39
+22:21:15: Ataque ao invasor realizado
+22:21:15: Fim do processo. Tempo até o restart: 300
+22:26:15: Iteração: 40
+22:26:25: Ataque ao invasor realizado
+22:26:25: Fim do processo. Tempo até o restart: 300
+22:31:25: Iteração: 41
+22:31:35: Ataque ao invasor realizado
+22:31:35: Fim do processo. Tempo até o restart: 300
+22:36:35: Iteração: 42
+22:36:43: Ataque ao invasor realizado
+22:36:43: Fim do processo. Tempo até o restart: 300
+22:41:43: Iteração: 43
+22:41:52: Ataque ao invasor realizado
+22:41:52: Fim do processo. Tempo até o restart: 300
+22:46:52: Iteração: 44
+22:47:02: Ataque ao invasor realizado
+22:47:02: Fim do processo. Tempo até o restart: 300
+22:52:02: Iteração: 45
+22:52:10: Ataque ao invasor realizado
+22:52:10: Fim do processo. Tempo até o restart: 300
+22:57:10: Iteração: 46
+22:57:21: Ataque ao invasor realizado
+22:57:21: Fim do processo. Tempo até o restart: 300
+23:02:21: Iteração: 47
+23:02:30: Ataque ao invasor realizado
+23:02:30: Fim do processo. Tempo até o restart: 300
