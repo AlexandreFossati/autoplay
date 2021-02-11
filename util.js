@@ -3,7 +3,7 @@ const { Builder, By, Key, until } = require('selenium-webdriver')
 const fs = require('fs')
 const deepai = require('deepai')
 
-deepai.setApiKey('bf921c3f-709c-4729-bdb2-eb1329cc56f1');
+deepai.setApiKey('never_mind');
 
 async function compareImages() {
   let res = await deepai.callStandardApi('image-similarity', {
@@ -119,10 +119,10 @@ async function openLoginScreen() {
   await options[1].click()
 
   // await driver.findElement(By.id('usuario')).sendKeys('fossatialex', Key.RETURN)
-  // await driver.findElement(By.id('senha')).sendKeys('c6#&#*$N', Key.RETURN)
+  // await driver.findElement(By.id('senha')).sendKeys('this_one_will_not_work', Key.RETURN)
 
   await driver.findElement(By.id('usuario')).sendKeys('alexfossati', Key.RETURN)
-  await driver.findElement(By.id('senha')).sendKeys('bKn13#rF09', Key.RETURN)
+  await driver.findElement(By.id('senha')).sendKeys('this_neither', Key.RETURN)
 
   await driver.wait(until.urlIs('http://www.narutoplayers.com.br/?p=status'))
 }
